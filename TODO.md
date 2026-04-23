@@ -1,1 +1,2 @@
-This project will definitely have to implement [Metalang]() as a base substrate, otherwise, we'd be recreating frankenstein javascript!
+- [ ] This project will definitely have to implement [Metalang]() as a base substrate, otherwise, we'd be recreating frankenstein javascript!
+- [ ] Infact, this is probably a susbset of metalang
