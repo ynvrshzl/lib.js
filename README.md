@@ -1,2 +1,2 @@
-# webtools
-Personal framework for building web-technologies using plain-text, vanilla JS, HTML, CSS
+# lib.js
+This is a personal library of patterns, interfaces, prototypes, assets, templates, snippets, scripts and tools for building web applications in zero-bloat JS, HTML, CSS.
